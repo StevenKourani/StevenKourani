@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Steven Kourani<br>🌱 I’m currently a Student at Iniversity of California Irvine <br>💞️ I’m working towards my Masters's in Computer Engineering 
+👋 Hi, I’m Steven Kourani<br>🌱 I’m currently a Student at the University of California Irvine <br>💞️ I’m working towards my Masters's in Computer Engineering 
 
 
 ## 🌐 Socials:
